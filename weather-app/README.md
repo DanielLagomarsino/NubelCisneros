@@ -4,7 +4,8 @@ Proyecto Clima
 Dani, Colo y Seba
 #########################
 
-
+Wheather API - https://openweathermap.org/forecast16
+API KEY - e62b2530fdb5f4ba3559c07c8634e5c7
 
 # Getting Started with Create React App
 
