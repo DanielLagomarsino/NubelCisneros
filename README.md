@@ -1,2 +1,4 @@
 # NubelCisneros
-Proyecto Javascript 2
+
+Proyecto Clima
+Dani, Colo y Seba
